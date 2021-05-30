@@ -1,0 +1,195 @@
+
+
+
+.box{
+  width: 51px;
+    height: 35px;
+}
+body{
+  margin:0;
+  }
+  h1{
+    font-size:2rem;
+  }
+  .intro{
+    background-color:#98ded9 !important;
+    margin-top:0;
+    padding-top:0;
+  }
+
+  .brand{
+    font-size:40px;
+    color:#eeeeee !important;
+      text-shadow:2px 2px 2px black;
+      font-family: 'Mr Dafoe', cursive;
+  }
+ul{
+  padding-right:10%;
+}
+li{
+  padding-right:5%;
+}
+.hi{
+  color:#eeeeee !important;
+  font-size:20px;
+  text-shadow:2px 2px 2px black;
+}
+.home{
+  background-color:#98ded9;
+  text-align:center;
+  padding-top:150px;
+  padding-bottom:150px;
+}
+.mine{
+  opacity:0.7;
+  border-radius:100%;
+  width:30%;
+}
+.name{
+  color:white;
+  text-shadow:2px 2px 2px black;
+  font-family: 'Leckerli One', cursive;
+  font-size:10px;
+}
+.jk{
+  font-size:3rem;
+}
+.testimonial{
+  background-color:#f9f3f3;
+  text-align:center;
+  padding:7% 15%;
+}
+.im{
+
+  width:25%;
+  opacity:0.6;
+}
+.im:hover{
+  opacity:1;
+}
+button{
+  width:2%;
+  height:20px;
+
+}
+.res{
+  text-align:justify;
+  width:50%;
+  margin-left:25%;
+  margin-right:25%;
+  line-height:2;
+  color:black;
+  font-weight:normal;
+  font-size:20px;
+}
+.btn{
+  margin-top:180px;
+  background-color:gray !important;
+  width:50px;
+
+}
+.icon{
+  background-color:gray !important;
+
+}
+.heading{
+  line-height:2;
+  font-family: 'Pacifico', cursive;
+  font-size:50px;
+  text-shadow: 2px 2px 2px black;
+}
+.interests{
+  background-color:#98ded9;
+}
+.row{
+  padding:5% 10%;
+}
+.interests h1{
+  text-align:center;
+  padding:5% 10%;
+  color:white;
+  text-shadow:2px 2px 2px black;
+  font-family: 'Leckerli One', cursive;
+}
+.coding-image img{
+  width:50%;
+
+}
+.interests h3{
+  color:black;
+  text-shadow:2px 2px 2px black;
+  font-family: 'Pacifico', cursive;
+  color:white;
+}
+.coding-image{
+  text-align:center;
+}
+.coding-text{
+  text-align:left;
+  line-height:2;
+}
+.web-image img{
+  width:50%;
+
+}
+.web-image{
+  text-align:center;
+}
+.web-text{
+  text-align:left;
+  line-height:2;
+}
+.cricket-image img{
+  width:50%;
+
+}
+.cricket-image{
+  text-align:center;
+}
+.cricket-text{
+  text-align:left;
+  line-height:2;
+}
+.soccer-image img{
+  width:50%;
+
+}
+.soccer-image{
+  text-align:center;
+}
+.soccer-text{
+  text-align:left;
+  line-height:2;
+}
+@media only screen and (max-width:900px)
+{
+  .henry{
+    display:block !important;
+
+  }
+  .vis{
+    display:none;
+  }
+
+}
+footer{
+  text-align:center;
+  background-color:#f9f3f3;
+
+}
+.details{
+  padding:5% 10%;
+}
+.details h4{
+  font-family:arial;
+  text-shadow:2px 2px 2px black;
+}
+.push{
+  padding:2% 6%;
+}
+.fab{
+  padding:10px;
+}
+.pro{
+  padding-top:5px;
+}
